@@ -13,8 +13,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo" title="Lua" />
-  <img width="12" />
 </div>
 
 ### Tools and Technologies
