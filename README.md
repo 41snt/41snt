@@ -20,7 +20,7 @@
 ### Tools and Technologies
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" title="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" title="VS Code" />
   <img width="12" />
 </div>
 
