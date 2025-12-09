@@ -1,6 +1,6 @@
 ### Programming Languages
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,cs,python,lua" />
   </a>
