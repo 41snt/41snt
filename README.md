@@ -17,5 +17,12 @@
   <img width="12" />
 </div>
 
+### Tools and Technologies
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo" title="Visual Studio" />
+  <img width="12" />
+</div>
+
 
 **Note:** I am not yet an expert in these programming languages; I am currently in the process of learning and improving.
